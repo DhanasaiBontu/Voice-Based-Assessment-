@@ -46,6 +46,3 @@ Modular and scalable architecture supporting:
 - API-driven integration for frontend and backend communication.
 
 ---
-
-## 📂 Folder Structure (Suggested)
-
